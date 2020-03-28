@@ -1,6 +1,6 @@
-# CSCI567-Machine-Learning-Assignments ✌️
+# All Programming Assignments for CSCI567: Machine Learning, as taught by Michael Schindler at USC ✌️
 
-This repository comprises of all 5 assignments from CSCI567: Machine Learning taught by Prof. Michael Schindler in Spring 2018 at the University of Southern California.
+This repository comprises of all 5 programming assignments from CSCI567: Machine Learning taught by Prof. Michael Schindler in Spring 2018 at the University of Southern California ✌️
 
   1. Implement a k-Nearest Neighbor Classifier (kNN), Perceptron algorithm, and Linear Regression to fit the MNIST handwritten digits dataset, and evaluate their performance. Learn how to set up a machine learning pipeline and evaluate their performance.
   2. Implement binary classification (using logistic regression), multiclass classification (using logistic multiclass regression), and Neural Networks (specifically a Multilayer Perceptron and a Convolution Neural Network) to fit a subset of the MNIST handwritten digits dataset.
